@@ -1,36 +1,74 @@
-# EX 2 C program to check whether the attendance is PRESENT using simple if statement.
-## DATE:28\04\2025
+# EX 5 C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
+## DATE:
 ## AIM:
-To write a program to check whether the attendance is PRESENT using simple if statement.
+To write a C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
 
 ## Algorithm
 1. Start. 
-2. Declare a variable value of type char. 
+2. Declare three variable value of type int for marks. 
 3. Prompt the user to enter a value. 
 4. Read the value using scanf. 
-5. Check whether the attendance is PRESENT. 
-6. If true, print "Present". 
-7. If false, print " ". 
-8. End.  
+5. Find total and average. 
+6. Print the result 
+7. End.    
 
 ## Program:
 ```
-#include<stdio.h> 
-int main(){ 
-char p1; 
-scanf("%c", &p1); 
-if(p1=='P') 
-{ 
-printf("Present"); 
+#include <stdio.h> 
+int main() { 
+    int sub1, sub2, sub3, total; 
+    float average; 
+    scanf("%d %d %d", &sub1,&sub2,&sub3); 
+    total = sub1 + sub2 + sub3; 
+    average = total / 3.0; 
+    printf("\nTotal : %d\n", total); 
+    printf("Average : %.2f\n", average); 
+    return 0; 
 } 
-return 0; 
+```
+
+## Output:
+
+# EX 5 C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
+## DATE:
+## AIM:
+To write a C program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
+
+## Algorithm
+1. Start. 
+2. Declare three variable value of type int for marks. 
+3. Prompt the user to enter a value. 
+4. Read the value using scanf. 
+5. Find total and average. 
+6. Print the result 
+7. End.    
+
+## Program:
+```
+#include <stdio.h> 
+int main() { 
+    int sub1, sub2, sub3, total; 
+    float average; 
+    scanf("%d %d %d", &sub1,&sub2,&sub3); 
+    total = sub1 + sub2 + sub3; 
+    average = total / 3.0; 
+    printf("\nTotal : %d\n", total); 
+    printf("Average : %.2f\n", average); 
+    return 0; 
 }
 RegisterNumber:212222060288
 Developed by:Venkatasubramaniam R
 ```
+
 ## Output:
 
-![image](https://github.com/user-attachments/assets/c55b68e3-a4c1-4900-8b39-ad6bebe7a64b)
+![image](https://github.com/user-attachments/assets/ef557452-87c6-4a46-8235-b0ec5919d0d5)
+
+
+## Result:
+Thus the program was executed and the output was verified successfully.
+
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
