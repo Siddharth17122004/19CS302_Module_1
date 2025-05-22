@@ -14,6 +14,7 @@ To write a C program to read the age of a person and determine whether he is eli
 8. End.  
 
 ## Program:
+```
 #include<stdio.h> 
 int main(){ 
 char p1; 
@@ -24,9 +25,9 @@ printf("Present");
 } 
 return 0; 
 }
-Register no:212222060288
-Developed By:VENKATASUBRAMANIAM R
-
+RegisterNumber:212222060288
+Developed by:VENKATASUBRAMANIAM R
+```
 ## Output:
 ![image](https://github.com/user-attachments/assets/d71a7160-d610-4c9e-99ac-f3a09c2f279f)
 
