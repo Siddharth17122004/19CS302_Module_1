@@ -29,8 +29,7 @@ RegisterNumber:212222060288
 Developed by:VENKATASUBRAMANIAM R
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/d71a7160-d610-4c9e-99ac-f3a09c2f279f)
-
+![Screenshot_6-5-2025_114950_training saveetha in](https://github.com/user-attachments/assets/7a58f5a5-7c60-401f-bfbc-16b710cdfff4)
 
 
 ## Result:
