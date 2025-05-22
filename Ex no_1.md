@@ -20,7 +20,7 @@ printf ("%.1f",a);
 return 0; 
  
 }
-Register No:212222060288
+RegisterNumber:212222060288
 Developed By:Venkatasubramaniam R
 ```
 
