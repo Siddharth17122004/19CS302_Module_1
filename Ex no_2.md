@@ -26,9 +26,7 @@ printf("Present");
 return 0; 
 }
 Register no:212222060288
-Developed by:VENKATASUBRAMANIAM R
-
-
+Developed By:Venkatasubramaniam R
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/c55b68e3-a4c1-4900-8b39-ad6bebe7a64b)
